@@ -200,13 +200,6 @@ corresponding image in `../images/`.
 
 ---
 
-## Note on Hardware
-
-The mechanical fabrication and electronic assembly of the physical
-AntBot prototype were carried out by an external fabrication partner
-based on the team's design specification. This package documents the
-**design, kinematics, and simulation results** reported in the
-published paper — it is not a hardware build guide.
 
 ---
 
