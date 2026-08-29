@@ -1,0 +1,5 @@
+Leg Inverse Kinematics -- sample output
+========================================
+target(x,y,z)=(120, 20, -90) mm  ->  coxa=9.46 deg, femur=-5.60 deg, tibia=26.39 deg
+target(x,y,z)=(140, 0, -95) mm  ->  coxa=0.00 deg, femur=-23.22 deg, tibia=60.77 deg
+target(x,y,z)=(100, -15, -80) mm  ->  coxa=-8.53 deg, femur=8.84 deg, tibia=-1.28 deg
