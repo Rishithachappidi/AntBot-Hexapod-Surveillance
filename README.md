@@ -13,6 +13,7 @@ Amrita School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, India
 
 ---
 
+
 ## Folder Structure
 
 ```
@@ -40,7 +41,7 @@ goes in and what comes out.
 
 ---
 
-## 1. Leg Inverse Kinematics
+## 1. Leg Inverse Kinematics ()
 
 **Script:** `scripts/leg_inverse_kinematics.py`
 
