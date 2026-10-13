@@ -12,7 +12,7 @@ Authors: Rishitha C, Divya Rithanya, Karthikeya Y, Kaushal S, Akhil V. M
 Amrita School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, India
 
 ---
-
+This is a published conference work.
 
 ## Folder Structure
 
